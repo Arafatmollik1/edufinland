@@ -1,8 +1,11 @@
-
+#do not push settings files
+/configurations/ossn.config.db.php
+/configurations/ossn.config.site.php
 
 #do not include following files
 /components/*
 /cache
+/installation/INSTALLED
 /.htaccess
 Thumbs.db
 Desktop.ini
