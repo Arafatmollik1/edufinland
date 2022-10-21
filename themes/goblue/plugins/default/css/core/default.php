@@ -222,6 +222,11 @@ a {
 	min-height: 400px;
 }
 
+.ossn-layout-newsfeed.center{
+	justify-content: center;
+	align-content: center;
+	display: flex;
+}
 .ossn-home-container,
 .ossn-layout-startup {
 	min-height: 560px;
